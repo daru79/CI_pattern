@@ -1,7 +1,7 @@
 # CI_pattern
 Blog with CMS build with CodeIgniter 2.2.5 (ver. 2)
 
-# Powiazanie serwera WWW z GitHub'em
+# I. Powiazanie serwera WWW z GitHub'em
 1. Tworzysz nowe repo;
 2. W terminalu laczysz utworzone wczesniej repo z serwerem WWW:
   $ git init [ENTER]
