@@ -1,4 +1,5 @@
-# CI_pattern
+# CI_pattern `ver 1.0`
+*Requires [CodeIgniter](http://codeigniter.com/)*
 Blog with CMS build with CodeIgniter 2.2.5 (ver. 2)
 
 **1. Powiazanie serwera WWW z GitHub'em**
