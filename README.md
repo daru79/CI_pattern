@@ -1,4 +1,4 @@
-# CI_pattern `ver 1.0`
+# CI_pattern `ver. 1.0`
 
 Blog with CMS build with CodeIgniter 2.2.5 (ver. 2)
 
